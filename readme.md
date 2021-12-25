@@ -5,4 +5,4 @@ The Algorithm Design Manual (3rd ed.) in Python
 
 Skienna choose C as the programming language in the book. This repoistory is a Python version of the algorithms from the book.
 
-[Algorist](https://www.algorist.com/) is the official website for the book.
+[algorist.com](https://www.algorist.com/) is the official website for the book.
